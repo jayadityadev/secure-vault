@@ -1,6 +1,6 @@
 import os
 import time
-from functions import login, signup, input_data, read_data
+from functions_cli import login, signup, input_data, read_data
 
 CSV_FILE_PATH = 'user_data.csv'
 
